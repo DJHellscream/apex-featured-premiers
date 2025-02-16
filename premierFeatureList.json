@@ -2,18 +2,8 @@
   "featuredPremiers": [
     {
       "name": "bifkn",
-      "address": "0x1a10096d67C98b1345494cbC47798CAB37D34061",
+      "address": "0x69Bec8d948f03cc55fbFdF7641ce1440De9EF0bd",
       "notes": "Featured project bifkn"
-    },
-    {
-      "name": "smifkn",
-      "address": "0x0D946564C5cac096FBaD12e3a7aD592AEac15703",
-      "notes": "Featured project smifkn"
-    },
-    {
-      "name": "bifkn314",
-      "address": "0xAeEF028A43358AD25D8cb8B8959d12c82bD87379",
-      "notes": "Featured project bifkn314"
     }
   ]
 }
