@@ -1,4 +1,4 @@
-**BENSI Premier**
+BENSI Premier
 APEX enables $BENSI to be a fair launched memecoin on the Avalanche Blockchain. The initial liquidity pool for the $BENSI memecoin will be added to DEXes. All LP tokens managed by the Foundation will be locked in the $BENSI Memecoin Moat after launch.
 
 **Treasury Tokens**
