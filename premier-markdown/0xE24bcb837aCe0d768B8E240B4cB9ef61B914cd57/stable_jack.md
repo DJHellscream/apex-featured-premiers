@@ -62,9 +62,8 @@ Stable Jack’s **Discount Tickets Model** (inspired by Andre Cronje’s Options
 ![Tokenomics Image](https://raw.githubusercontent.com/DJHellscream/apex-featured-premiers/main/premier-markdown/0xE24bcb837aCe0d768B8E240B4cB9ef61B914cd57/tokenomics.jpg)
 
 ## SALE DETAILS
-- **Token**: $JACK  
-- **Total Tokens for Sale**: 500K $JACK  
-- **Fully Diluted Valuation (FDV)**: $20M  
+- **Token**: $aJACK  
+- **Total Tokens for Sale**: 500K $aJACK
 - **Unlock Schedule**: Fully unlocked at TGE
 
 ### Disclaimer
