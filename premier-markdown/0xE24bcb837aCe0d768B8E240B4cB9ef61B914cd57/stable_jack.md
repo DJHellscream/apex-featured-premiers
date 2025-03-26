@@ -1,8 +1,6 @@
 # Stable Jack: Yield, Volatility and Points Market
 
-![Stable Jack Image](./apex_jack.jpg)
-
-<figure><img src="./apex_jack.jpg" alt="Stable Jack Image"><figcaption></figcaption></figure>
+![Stable Jack Image](https://raw.githubusercontent.com/DJHellscream/apex-featured-premiers/main/premier-markdown/0xE24bcb837aCe0d768B8E240B4cB9ef61B914cd57/apex_jack.jpg)
 
 Stable Jack is a yield, volatility, and points market for any asset. Investors can access fixed and leveraged yield, farm airdrops with leverage, and long any asset without liquidation risk.
 
