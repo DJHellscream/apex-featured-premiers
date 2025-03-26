@@ -2,6 +2,8 @@
 
 ![Stable Jack Image](./apex_jack.jpg)
 
+<figure><img src="./apex_jack.jpg" alt="Stable Jack Image"><figcaption></figcaption></figure>
+
 Stable Jack is a yield, volatility, and points market for any asset. Investors can access fixed and leveraged yield, farm airdrops with leverage, and long any asset without liquidation risk.
 
 As a Sonic Boom and Ethena Accelerator winner, Stable Jack achieved an **80% retention rate** and more than **5,000 users**. With this momentum behind it, Stable Jack is ready to dominate the DeFi ecosystem.
@@ -21,6 +23,8 @@ Stable Jack is based on a **pool model (not AMM)**, preventing impermanent loss 
 
 ![Comparison Image](./sj2.jpg)
 
+<figure><img src="./sj2.jpg" alt="Comparison Image"><figcaption></figcaption></figure>
+
 There is a significant growth opportunity in the yield market as the ecosystem matures, and as is the case with every sector, innovative projects will lead the next leg of this growth!
 
 Compared to other yield protocols, Stable Jack’s ability to offer **principal protection**, **no slippage**, and **no IL** is a strong value proposition that can’t be copied.
@@ -28,6 +32,8 @@ Compared to other yield protocols, Stable Jack’s ability to offer **principal 
 This advantage gives Stable Jack a **HUGE room to grow**!
 
 ![Growth Image](./sj3.jpg)
+
+<figure><img src="./sj3.jpg" alt="Growth Image"><figcaption></figcaption></figure>
 
 ## Achievements
 🏆 **Sonic BOOM Winner** – Eligible for significant Sonic Gems (points) & airdrops  
@@ -51,6 +57,8 @@ Stable Jack has been working with the best teams in security services like **Ded
 
 ![Partners Image](./partners.jpg)
 
+<figure><img src="./partners.jpg" alt="Partners Image"><figcaption></figcaption></figure>
+
 ## Tokenomics
 Stable Jack’s **Discount Tickets Model** (inspired by Andre Cronje’s Options Liquidity Mining) ensures:
 
@@ -60,6 +68,8 @@ Stable Jack’s **Discount Tickets Model** (inspired by Andre Cronje’s Options
 ✅ **Value Accrual to $JACK** – Revenue-sharing, buybacks, & airdrops from partner protocols.
 
 ![Tokenomics Image](./tokenomics.jpg)
+
+<figure><img src="./tokenomics.jpg" alt="Tokenomics Image"><figcaption></figcaption></figure>
 
 ## SALE DETAILS
 - **Token**: $JACK  
