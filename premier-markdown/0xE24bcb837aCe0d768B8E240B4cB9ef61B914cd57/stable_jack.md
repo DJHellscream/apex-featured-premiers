@@ -19,9 +19,7 @@ Stable Jack innovates a new tokenomics model, called **Discount Tickets**. This 
 ## Comparison Analysis
 Stable Jack is based on a **pool model (not AMM)**, preventing impermanent loss & price slippage, making it more efficient for both LPs and investors.
 
-![Comparison Image](./sj2.jpg)
-
-<figure><img src="./sj2.jpg" alt="Comparison Image"><figcaption></figcaption></figure>
+![Comparison Image](https://raw.githubusercontent.com/DJHellscream/apex-featured-premiers/main/premier-markdown/0xE24bcb837aCe0d768B8E240B4cB9ef61B914cd57/sj2.jpg)
 
 There is a significant growth opportunity in the yield market as the ecosystem matures, and as is the case with every sector, innovative projects will lead the next leg of this growth!
 
@@ -29,9 +27,7 @@ Compared to other yield protocols, Stable Jack’s ability to offer **principal 
 
 This advantage gives Stable Jack a **HUGE room to grow**!
 
-![Growth Image](./sj3.jpg)
-
-<figure><img src="./sj3.jpg" alt="Growth Image"><figcaption></figcaption></figure>
+![Growth Image](https://raw.githubusercontent.com/DJHellscream/apex-featured-premiers/main/premier-markdown/0xE24bcb837aCe0d768B8E240B4cB9ef61B914cd57/sj3.jpg)
 
 ## Achievements
 🏆 **Sonic BOOM Winner** – Eligible for significant Sonic Gems (points) & airdrops  
@@ -53,9 +49,7 @@ Stable Jack has partnered with major ecosystem protocols like Royco, Agora, BENQ
 
 Stable Jack has been working with the best teams in security services like **Dedaub** and **Hexagate**.
 
-![Partners Image](./partners.jpg)
-
-<figure><img src="./partners.jpg" alt="Partners Image"><figcaption></figcaption></figure>
+![Partners Image](https://raw.githubusercontent.com/DJHellscream/apex-featured-premiers/main/premier-markdown/0xE24bcb837aCe0d768B8E240B4cB9ef61B914cd57/partners.jpg)
 
 ## Tokenomics
 Stable Jack’s **Discount Tickets Model** (inspired by Andre Cronje’s Options Liquidity Mining) ensures:
@@ -65,9 +59,7 @@ Stable Jack’s **Discount Tickets Model** (inspired by Andre Cronje’s Options
 ✅ **Protocol-Owned-Liquidity** – Enables Stable Jack to raise POL for buybacks, ensuring a sustainable token economy.  
 ✅ **Value Accrual to $JACK** – Revenue-sharing, buybacks, & airdrops from partner protocols.
 
-![Tokenomics Image](./tokenomics.jpg)
-
-<figure><img src="./tokenomics.jpg" alt="Tokenomics Image"><figcaption></figcaption></figure>
+![Tokenomics Image](https://raw.githubusercontent.com/DJHellscream/apex-featured-premiers/main/premier-markdown/0xE24bcb837aCe0d768B8E240B4cB9ef61B914cd57/tokenomics.jpg)
 
 ## SALE DETAILS
 - **Token**: $JACK  
