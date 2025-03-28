@@ -1,6 +1,11 @@
 {
   "featuredPremiers": [
     {
+      "name": "Stable Jack Round 2",
+      "address": "0xaEBf0f273dCCd62d41D634A09C824986072a10e7",
+      "notes": "Featured project by Stable Jack"
+    },
+    {
       "name": "Stable Jack",
       "address": "0xE24bcb837aCe0d768B8E240B4cB9ef61B914cd57",
       "notes": "Featured project by Stable Jack"
