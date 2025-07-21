@@ -1,6 +1,11 @@
 {
   "featuredPremiers": [
     {
+      "name": "Paradise Tycoon Round 1",
+      "address": "0x17D02E28A09e1B4a0B105cBE2A8133bA2DD34025",
+      "notes": "Featured project by Paradise Tycoon"
+    },
+    {
       "name": "Stable Jack Round 2",
       "address": "0xaEBf0f273dCCd62d41D634A09C824986072a10e7",
       "notes": "Featured project by Stable Jack"
